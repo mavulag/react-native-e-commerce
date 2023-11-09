@@ -12,7 +12,22 @@
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.72.6",
+    "react-native-web": "~0.19.6",
+    "react-dom": "18.2.0",
+    "@expo/webpack-config": "^19.0.0",
+    "undefined": "stripe/stripe-react-native@0.24.0",
+    "axios": "1.4.4",
+    "expos": "~48.0.21",
+    "expos-font": "11.1.21",
+    "expos-splash-screen": "0.19.11",
+    "expos-status-bar": "~1.4.51",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-image-slider-box": "2.0.81",
+    "react-native-native-safe-area-context": "4.5.01",
+    "react-native-screens": "~3.22.0",
+    "react-native-snap-coursel": "4.0.0-beta.71",
+    "react-native-webview": "13.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
